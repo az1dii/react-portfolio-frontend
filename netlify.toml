@@ -1,4 +1,4 @@
 [[redirects]]
-  CI = npm run build 
+  "CI = npm run build" 
   from = "/*"
   to = "/index.html"
